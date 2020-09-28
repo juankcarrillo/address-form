@@ -1,0 +1,13 @@
+
+"project_identifier" : "vtex-id"
+"api_key" : "973e949e8b2fb06773d039acc5e82920"
+"base_path" : ""
+"preserve_hierarchy": true
+
+files: [
+  {
+  "source" : "/messages/en.json",
+  "translation" : "/messages/%two_letters_code%.json",
+  "type" : "json",
+ },
+]
